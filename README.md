@@ -69,5 +69,5 @@ users.txt        → Auto-generated data file storing user records
 - Multi-currency support
 
 ## 🎥 Demo
-A demonstration video explaining the project is available here:
+A demonstration video explaining the project is available here (in arabic):
 https://youtu.be/io8NvdFP2YA?si=n39-dJ99HVGlRSyB
